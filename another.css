@@ -1,0 +1,20 @@
+.Container {
+    width: 500px;
+    height: 515px;
+    text-align: center;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin: 100px;
+    margin-left: 400px;
+    z-index: 0;
+}
+
+.AmalBox {
+    width: 498px;
+    height: 300px;
+    z-index: 1;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin-top: 100px;
+    text-align: center;
+}
